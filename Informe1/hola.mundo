@@ -1,0 +1,7 @@
+Algoritmo holaMundo
+	Definir mensaje Como Cadena;
+	
+	mensaje = "Hola Mundo";
+	
+	Imprimir mensaje;
+FinAlgoritmo
